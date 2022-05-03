@@ -16,13 +16,16 @@ else:
 # 조건 분기
 if flag=='예':
     print('축하드려요!!')
-
+    
+    # 가격 입력
     price=input('가격이 얼마인가요?')
-
+    
+    # 내부 조건 분기
     if int(price) <= 50000:
         print('구매합시다!')
     else:
         print('포기합니다ㅜ')
+        
 elif flag=='아니요':
     print('아쉽군요ㅜㅜ')
 else:
