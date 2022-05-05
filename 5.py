@@ -1,3 +1,5 @@
+# 회문 판별
+
 text=input('문자열을 입력하세요 : ')
 
 origin = text.replace(' ','')
