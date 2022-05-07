@@ -1,3 +1,4 @@
+# 알파벳 모음, 자음 판별
 answer=input('알파벳을 입력하세요: ')
 
 if answer=='a' or answer=='e' or answer=='i' or answer=='o' or answer=='u':
