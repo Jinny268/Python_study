@@ -1,3 +1,4 @@
+# 입력하는 달의 계절 알아보기
 month=input('Please enter the month by text: ')
 day=int(input('Please enter the number of days: '))
 
