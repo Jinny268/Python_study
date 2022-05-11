@@ -1,3 +1,4 @@
+# 생일을 입력하여 띠 알아보기
 year=int(input('Please enter only the number of years: '))
 
 if year>0:
