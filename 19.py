@@ -1,3 +1,4 @@
+# 지진의 강도 알아보기
 mag=float(input('Please enter the magnitude of the earthquake: '))
 
 if mag<2:
