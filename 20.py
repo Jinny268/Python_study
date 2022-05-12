@@ -1,3 +1,4 @@
+# 2차 방정식의 해 구하기
 import math
 
 a=int(input('ax^2+bx+c에서 a의 값을 입력하세요(0이 될 수 없습니다.): '))
