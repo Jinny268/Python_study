@@ -1,3 +1,4 @@
+# 가시광선 파장에 따른 빛의 색 알아보기
 a=int(input('Please enter the wavelength of visible light(The unit is nm.): '))
 
 if 380<=a<450:
