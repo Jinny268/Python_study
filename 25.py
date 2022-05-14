@@ -1,3 +1,4 @@
+# 주파수를 받아 분류하기
 hz=int(input('Please enter the frequency range(Hz): '))
 
 if hz<3000000000:
