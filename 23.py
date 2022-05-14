@@ -1,3 +1,4 @@
+# 회사에서 직원을 평가한 등급 척도를 입력받아 금여 인상액 계산하기
 a=float(input('Please enter your rating(0.0, 0.4 or more): '))
 
 d=a*2400
