@@ -1,3 +1,4 @@
+# 휴대전화 요금제에 따른 한 달 사용 요금 구하기
 m=int(input('Please enter the minutes: '))
 t=int(input('Please enter the text: '))
 
