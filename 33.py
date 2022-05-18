@@ -1,3 +1,4 @@
+# 랜덤값으로 주사위 숫자를 받아 대소 비교하기
 import random
 
 num_a=random.randrange(1,7)
