@@ -1,3 +1,4 @@
+# 페니 사용하기
 total=0
 while True:
     p=input('Price: ')
