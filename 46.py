@@ -1,3 +1,4 @@
+# 패리티 비트 이용하기
 flag=input('Please enter 8 bits: ')
 
 while flag !='':
