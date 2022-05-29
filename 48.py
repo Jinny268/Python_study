@@ -1,3 +1,4 @@
+# 회문 판별하기
 line=input('Please enter a string: ')
 
 i_p=True
