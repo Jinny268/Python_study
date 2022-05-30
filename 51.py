@@ -1,3 +1,4 @@
+# 10진법 숫자를 2진법으로 표현하기
 dec=int(input('Enter the decimal number you want to change to binary: '))
 
 bi=''
