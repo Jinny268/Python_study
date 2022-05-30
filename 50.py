@@ -1,3 +1,4 @@
+# 숫자를 입력받아 소인수 분해하기
 i=int(input('Please enter an integer: '))
 
 if i<2:
