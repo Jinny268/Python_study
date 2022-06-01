@@ -1,3 +1,4 @@
+# 연산자의 우선 순위 출력
 def operator(pre):
     if pre=='+' or pre=='-':
         return 1
