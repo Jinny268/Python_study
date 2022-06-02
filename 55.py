@@ -1,3 +1,4 @@
+# 숫자를 입력받아 오름차순으로 정렬하기
 cards=[]
 
 card=int(input('Please enter an integer (enter 0 to exit): '))
