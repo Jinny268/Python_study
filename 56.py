@@ -1,3 +1,4 @@
+# 정확한 자료조사를 위해 극단적인 값 제거하기
 def rem(data, num_1):
     retval=sorted(data)
 
