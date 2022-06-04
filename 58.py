@@ -1,3 +1,4 @@
+# 평균 구하기
 a=[]
 
 num=input('Please enter an number(enter an empty line to exit): ')
