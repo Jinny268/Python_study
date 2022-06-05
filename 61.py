@@ -1,3 +1,4 @@
+# 파일의 마지막 10줄 읽기
 import sys
 
 if len(sys.argv)!=2:
